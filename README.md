@@ -4,7 +4,7 @@ I am currently studying computer science fundamentals with the goal of working a
 
 Current Work & Learning:
 - Learning data analysis techniques and building a solid foundation in the field.
-- Developing and maintaining the Crenox project (@crenoxhq).
+- Developing and maintaining the [Crenox](https://github.com/crenoxhq/crenox) project .
 - Studying CS50 to strengthen my core programming skills.
 
 Contact:
